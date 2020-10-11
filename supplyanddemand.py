@@ -10,7 +10,7 @@ Supply1 = B1+3*Q
 Supply2 = B2+3*Q
 
 if B2 > B1:
-    u = "Decrease supply"
+    u = "Decreased Supply"
 else:
     u = "Increased Supply"
 
